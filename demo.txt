@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello computer
 this is my computer
+=======
+new line from repo B  
+>>>>>>> a37a6ce (commit from repo b)
